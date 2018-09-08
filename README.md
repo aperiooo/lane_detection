@@ -8,3 +8,10 @@ image acquisition,
 image preprocessing, 
 image feature extraction and model fitting, 
 and lane departure determination. 
+
+test：
+
+![image](https://github.com/aperiooo/lane_detection/blob/master/a.JPG)
+![image](https://github.com/aperiooo/lane_detection/blob/master/c.JPG)
+![image](https://github.com/aperiooo/lane_detection/blob/master/e.JPG)
+![image](https://github.com/aperiooo/lane_detection/blob/master/g.JPG)
